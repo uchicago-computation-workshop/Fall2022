@@ -36,7 +36,7 @@
 
 <br>
 
-<h4 class=pfblock-header3> Thursday, 09/30 </h4>
+<h4 class=pfblock-header3> Thursday, 09/29 </h4>
 <h4 class=pfblock-header3> 11:00am-12:20pm </h4>
 
 <br><br>
