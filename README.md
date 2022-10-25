@@ -3,7 +3,7 @@
 
 <br>
 
-### Oct 27th - [Hoda Heidari](https://github.com/uchicago-computation-workshop/Fall2022/tree/master/10_27_hoda)
+### Oct 27th - [Hoda Heidari](https://github.com/uchicago-computation-workshop/Fall2022/tree/add-new-speaker-file/10-27_hoda)
 
 <div><img src="HodaHeidari.jpg" width="200" height="240"></div>
 
