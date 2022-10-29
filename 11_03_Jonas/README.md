@@ -35,7 +35,7 @@
 
 <p class=footertext2>
 
-**Eric Jonas** is an Assistant Professor at Carnegie Mellon University with joint appointments in the Machine Learning Department and the Institute for Software, Systems, and Society. She is also affiliated with CyLab and Block Center at CMU, and co-leads the university-wide Responsible AI Initiative.
+**Eric Jonas** is a Professor in the Department of Computer Science at the University of Chicago. His research interests include biological signal acqusition, inverse problems, machine learning, heliophysics, neuroscience, and other exciting ways of exploiting scalable computation to understand the world. Previously, he was at the Berkeley Center for Computational Imaging and RISELab at UC Berkeley EECS working with Ben Recht.
 </p>
 
 <br>
@@ -46,13 +46,13 @@
 
 **Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the first issues page of the workshop’s public repository.
 
-**Before the first meeting**, by Wednesday, November 02 @ 11:59pm each of you will:
+**Before the first meeting**, by Wednesday, November 02 @ 11:59pm MACSS students must:
 
 Comment a well-developed question or comment about the reading for this week’s workshop on the public repository.
 
 If you would really like to ask your question in person, please place two exclamation points before your question to signal that you really want to ask it.
 
-Upvote (“thumbs up”) questions and proposals from other people. Upvote questions and recommendations you like (not comments from people you are friends with ;-). There may be prizes for top question askers.
+Upvote (“thumbs up”) questions and proposals from other people. Upvote questions and recommendations you like. There may be prizes for top question askers.
 </p>
 
 This week's suggested readings:
