@@ -3,8 +3,8 @@
 
 <br>
 
+### Nov10th - [Suresh Naidu](https://github.com/uchicago-computation-workshop/Fall2022/blob/main/11_10_%20Suresh/Suresh%20Naidu.jpg)
 ### Nov 3rd - [Eric Jonas](https://github.com/uchicago-computation-workshop/Fall2022/tree/main/11_03_Jonas)
-
 <div><img src="jonas.jpeg" width="200" height="200"></div>
 
 ### Oct 27th - [Hoda Heidari](https://github.com/uchicago-computation-workshop/Fall2022/tree/add-new-speaker-file/10-27_hoda)
