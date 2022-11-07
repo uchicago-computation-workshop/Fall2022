@@ -22,7 +22,7 @@
 
 <p class=footertext2>
 
-**Summary:** 
+**Summary:** How does workplace organizing -- attending to, and intervening upon, relationships among workers -- relate to organizing outcomes? We present detailed, establishment-level evidence on the importance of workplace networks to organizing outcomes among Walmart workers from 2010 to 2015. We process over 100000 unstructured organizer field notes from 118 store-level campaigns conducted at Walmart stores matched to organizing outcomes. We automatically reconstruct workplace networks as perceived by the organizer, and then, motivated by a DeGroot model of labor organizing, construct a new measure of network-driven organizing (NDO): the correlation between organizer attention to a worker and that worker's network centrality. Using interview transcripts from 35 workers, combined with a qualitative analysis of organizer notes, we demonstrate what network-driven organizing looks like in practice, and corroborate our constructed measure. We then show that this measure is positively correlated with campaign success at the workplace level, and that this correlation is robust to a variety of controls. We also construct an instrument using the leave-one-out mean network-driven organizing of the organizer team assigned to a store, and show that this instrument is highly correlated with both store-level network organizing as well as organizing success. A campaign going from an NDO correlation of 0 to a correlation of 1 is associated with at least a 50\% increase in cards signed, over a baseline mean of 23 cards.  These results rationalize a belief widely held by labor scholars and activists that organizing strategies that focus on workplace leaders are more likely to be successful, and suggest a statistic for organizing efficacy that could be operationalized by labor unions.
 
 </p>
 
@@ -52,7 +52,7 @@ Comment a well-developed question or comment about the reading for this week’s
 
 If you would really like to ask your question in person, please place two exclamation points before your question to signal that you really want to ask it.
 
-Upvote (“thumbs up”) questions and proposals from other people. Upvote questions and recommendations you like. There may be prizes for top question askers.
+Upvote (“thumbs up”) questions and proposals from other people. There may be prizes for top question askers.
 </p>
 
 This week's suggested readings:
