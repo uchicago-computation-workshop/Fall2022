@@ -57,7 +57,8 @@ Upvote (“thumbs up”) questions and proposals from other people. There may be
 
 This week's suggested readings:
 
-- [Slide Summary of Talk](https://github.com/uchicago-computation-workshop/Fall2022/blob/main/11_10_%20Suresh/Organizing_Slides.pdf)
+- [Workplace Networks and the Dynamics of Labor Organizing](https://github.com/uchicago-computation-workshop/Fall2022/blob/main/11_10_%20Suresh/JEP-2022-1283.pdf)
+- [Is There Any Future for a US Labor Movement?](https://github.com/uchicago-computation-workshop/Fall2022/blob/main/11_10_%20Suresh/JEP-2022-1283.pdf)
 
 <br>
 
