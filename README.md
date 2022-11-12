@@ -3,7 +3,7 @@
 
 <br>
 ### Nov 17th - [Alexander Todorov]()
-<div><img src="https://github.com/uchicago-computation-workshop/Fall2022/blob/main/11_10_%20Suresh/Suresh%20Naidu.jpg" width="200" height="200"></div>
+<div><img src="https://github.com/uchicago-computation-workshop/Fall2022/blob/main/11_17_%20Todorov/alexander-todorov.jpg" width="200" height="200"></div>
 
 
 ### Nov 10th - [Suresh Naidu](https://github.com/uchicago-computation-workshop/Fall2022/tree/main/11_10_%20Suresh)
