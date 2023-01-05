@@ -57,7 +57,7 @@ Upvote (“thumbs up”) questions and proposals from other people. There may be
 
 This week's suggested readings:
 
-- [Effects of Racial Segregation on Economic Productivity in U.S. Cities](https://github.com/uchicago-computation-workshop/Fall2022/blob/main/01_12_Berman/Stier_etal_Segregation_Prod_arxiv_2022.pdf)
+- [(required) Effects of Racial Segregation on Economic Productivity in U.S. Cities](https://github.com/uchicago-computation-workshop/Fall2022/blob/main/01_12_Berman/Stier_etal_Segregation_Prod_arxiv_2022.pdf)
 - [(optional) Evidence and theory for lower rates of depression in larger US urban areas](https://github.com/uchicago-computation-workshop/Fall2022/blob/main/01_12_Berman/Stier_etal_PNAS_2021.pdf)
 - [(optional) The promise of environmental neuroscience](https://github.com/uchicago-computation-workshop/Fall2022/blob/main/01_12_Berman/Berman_et_al-2019-Nature_Human_Behaviour.pdf)
 <br>
