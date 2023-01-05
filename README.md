@@ -3,6 +3,11 @@
 
 <br>
 
+### Nov 17th - [Marc Berman](https://github.com/uchicago-computation-workshop/Fall2022/tree/main/01_12_Berman)
+<div><img src="https://github.com/uchicago-computation-workshop/Fall2022/blob/main/01_12_Berman/Berman_v20%20copy.jpeg" width="180" height="200"></div>
+
+
+
 ### Nov 17th - [Alexander Todorov](https://github.com/uchicago-computation-workshop/Fall2022/tree/main/11_17_%20Todorov)
 <div><img src="https://github.com/uchicago-computation-workshop/Fall2022/blob/main/11_17_%20Todorov/alexander-todorov.jpg" width="180" height="200"></div>
 
